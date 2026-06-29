@@ -6,7 +6,7 @@
   "commit": "9b33bd9d4a20c6bb9c06dd2b96d5635f39a6e419",
   "owner": "MarioSupr23",
   "repo": "RGB-Controller",
-  "path": "RGB-Controller/RGB Controller.js",
+  "path": "/",
   "supported-devices": "CYD-2432S028",
   "files": [
     "RGB Controller.js"
