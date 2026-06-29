@@ -7,12 +7,8 @@
   "owner": "MarioSupr23",
   "repo": "RGB-Controller",
   "path": "RGB-Controller/RGB Controller.js",
-  "supported-devices": "CYD-2432S028"
+  "supported-devices": "CYD-2432S028",
   "files": [
-    "RGB Controller.js",
-    {
-      "source": "RGB Controller.js",
-      "destination": "BruceJS/Tools"
-    }
+    "RGB Controller.js"
   ]
 }
